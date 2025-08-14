@@ -1,5 +1,5 @@
 
-# 📅 Escala Colaborativa Hub
+# 📅 Escala Colaborativa Chronos
 
 **Sistema Web para Gestão de Escalas de Trabalho**
 
@@ -79,8 +79,8 @@ Se você for publicar em um domínio próprio, configure o CNAME e redirecioname
 Este projeto é mantido por:
 
 **Christian Mendes**  
-Desenvolvedor Front-End & Gestor de Produto  
-📧 christian.mendes@exemplo.com
+Desenvolvedor FullStack & Analista de Sitemas/Dados 
+📧 christianmendes645@gmail.com
 
 ---
 
